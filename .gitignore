@@ -1,0 +1,7 @@
+.pytest_cache/
+backups/
+temp/
+uploads/
+uploaded/
+codecanyon-zigaform-php-calculator-cost-estimation-form-builder.zip
+liquidcp-python/.venv/

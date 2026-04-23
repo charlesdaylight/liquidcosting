@@ -1,0 +1,14 @@
+.zfaddn_anim_prevtostart {
+	opacity: 0;
+}
+.zfaddn_anim_prevtostart:not(.zfaddn_anim_start) {
+	animation: 0s ease 0s normal none 1 running none;
+}
+
+.zfaddn_anim_start {
+	opacity: 1;
+}
+
+.sfdc-wrap .animated {
+	animation-fill-mode: backwards !important;
+}
